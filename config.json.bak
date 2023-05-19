@@ -10,8 +10,8 @@
   },
   "VirusTotal": {
     "APIKeys": [
-      "YOUR_VIRUS_TOTAL_API_KEY",
-      "ANOTHER_OPTIONAL_VIRUS_TOTAL_API_KEY_IF_YOU_NEED_MORE"
+      "ab0bea8b6d7693e3793279609da1c2c1d5fcb2365871515239c7704227d41dea",
+      "ab0bea8b6d7693e3793279609da1c2c1d5fcb2365871515239c7704227d41dea"
     ],
     "Input": "Argument",
     "GeneralOutput": "0",
